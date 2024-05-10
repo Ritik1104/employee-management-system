@@ -1,11 +1,10 @@
-import './App.css';
+import "./App.css";
+import { Navbar } from "./components/Navbar";
 
 function App() {
-  return (
-    <div className="bg-gray-800">
-      
-      
-    </div>
+  return ( 
+    <Navbar/>
+    
   );
 }
 
